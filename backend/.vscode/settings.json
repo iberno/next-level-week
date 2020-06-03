@@ -1,0 +1,11 @@
+{
+    "sqltools.connections": [
+        {
+            "database": "${workspaceFolder:backend}/src/database/database.sqlite",
+            "driver": "SQLite",
+            "name": "knex",
+            "previewLimit": 50
+        }
+    ],
+    "sqltools.useNodeRuntime": true
+}
