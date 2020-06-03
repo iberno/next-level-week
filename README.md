@@ -99,7 +99,7 @@ After merging your receipt request to done, you can delete a branch from yours.
 This project is under the MIT license. See the [LICENSE](https://github.com/iberno/next-level-week/LICENSE) for details.
 
 
-Made with ♥ by Ibernô Hoffmann Vitório :wave: [Get in touch!](https://www.linkedin.com/in/iber_hoffmann/)
+Made with ♥ by Ibernô Hoffmann Vitório :wave: [Get in touch!](https://www.linkedin.com/in/iberno-hoffmann-vitorio-91ab1447/)
 
 [nodejs]: https://nodejs.org/
 [typescript]: https://www.typescriptlang.org/
